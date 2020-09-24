@@ -6,7 +6,7 @@
             creator of the video:
             Video by Bhargava Marripati from Pexels
 
-            Hope you enjoy your new logo, here are the people that
+            here are the people that
             made my beautiful logo happen :)
             font name: IBMPlexSerif-Regular
             font link: https://fonts.google.com/specimen/IBM+Plex+Serif
