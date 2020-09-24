@@ -1,9 +1,9 @@
 # Atm-system-java-swing
 Hello ! **this project was created with the help of DJ Oamen's tutorial ! pls see https://www.youtube.com/watch?v=ULX3-xwud8w&t=800s**
-/*
-            **the creator of Video that i used on second frame is from 葉崧民 from Pexels**
 
             
+            
+            **the creator of Video that i used on second frame is from 葉崧民 from Pexels**
             **creator of the video that i used in loading and background screen on first and third frame: Video by Bhargava Marripati from Pexels**
             
             all videos were from pexel.com 
@@ -20,7 +20,6 @@ Hello ! **this project was created with the help of DJ Oamen's tutorial ! pls se
             icon designer link: /bluevurt**
             
             **the gif icon that i used on this projects are from loading.io**
-*/
 
 
 
