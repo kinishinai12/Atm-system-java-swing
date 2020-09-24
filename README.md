@@ -1,5 +1,11 @@
 # Atm-system-java-swing
-Hello !
+Hello ! **this project was created with the help of DJ Oamen's tutorial ! pls see https://www.youtube.com/watch?v=ULX3-xwud8w&t=800s**
+
+
+the videos i used in this project are from pexels ! please see 
+
+
+
 before you run the system, 
 
 
@@ -8,5 +14,10 @@ before you run the system,
 
 ->File cardCreated = new File("C:\\Users\\junie\\Desktop\\ATM CARD\\"+cardNumber+".txt");
   FileWriter myWriter = new FileWriter("C:\\Users\\junie\\Desktop\\ATM CARD\\"+cardNumber+".txt");   //change the paths in confirm.java
+  
+
+
+
+
 
 ask me if there was a problem on the system or message me if you have complain about my system.. thankyou!
