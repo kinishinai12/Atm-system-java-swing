@@ -47,7 +47,7 @@ public class ConfirmCard extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setTitle("Create ATM Card");
-        setIconImage(Toolkit.getDefaultToolkit().getImage("C:\\Users\\junie\\Downloads\\atm-1.1s-135px.png"));
+        setIconImage(Toolkit.getDefaultToolkit().getImage("C:\\Users\\junie\\Downloads\\atm-1.1s-135px.png")); //CHANGE IT 
         setResizable(false);
         addWindowListener(new java.awt.event.WindowAdapter() {
             public void windowActivated(java.awt.event.WindowEvent evt) {
