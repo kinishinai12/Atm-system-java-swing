@@ -88,23 +88,7 @@ public class Validation{
             System.out.println(e);
         }return "done";
     }
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+
     public static String getBalance(String card){
         String resultQ = "";
         try{
